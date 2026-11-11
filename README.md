@@ -1,5 +1,9 @@
 # HỆ THỐNG GIÁM SÁT SỨC KHỎE VÀ MÔI TRƯỜNG PHÒNG BỆNH TỪ XA QUA MQTT & NODE-RED
 
+> **Đề tài cuối kỳ môn học:** Phát triển ứng dụng IoT  
+> **Giảng viên hướng dẫn:** TS. Nguyễn Anh Tuấn  
+> **Sinh viên thực hiện:** Lưu Minh Tuân - 23001637
+
 ## 1. Tên đề tài
 Thiết kế hệ thống IoT giám sát nhịp tim và điều kiện môi trường phòng bệnh (nhiệt độ, độ ẩm) thời gian thực ứng dụng Node-RED và giao thức MQTT.
 
